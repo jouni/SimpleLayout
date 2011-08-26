@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: SimpleLayout
+Implementation-Version: 0.3
+Vaadin-Package-Version: 1
+Class-Path: 
+Vaadin-Widgetsets: org.vaadin.simplelayout.SimplelayoutWidgetset
+Vaadin-Addon: simplelayout-0.3.jar
+Vaadin-Dependency: csstools-0.2.jar

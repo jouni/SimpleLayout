@@ -1,0 +1,11 @@
+/build
+
+/deploy
+
+/.settings
+
+/WebContent/VAADIN/widgetsets
+
+/WebContent/WEB-INF/lib/vaadin*.jar
+
+*.launch
